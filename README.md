@@ -1,2 +1,2 @@
-# first-action
+# github-actions
 GitHub Actions example
